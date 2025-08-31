@@ -1,0 +1,200 @@
+﻿2025-06-04 09:23:47 - INFO - START: Starting Ashot bot supervisor
+2025-06-04 09:23:47 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-06-04 09:23:47 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-06-04 09:23:47 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-04 09:23:52 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-04 09:23:52 - INFO - USPEH: Bot started with PID: 21424
+2025-06-04 09:26:22 - INFO - START: Starting Ashot bot supervisor
+2025-06-04 09:26:22 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-06-04 09:26:22 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-06-04 09:26:22 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-04 09:54:10 - INFO - START: Starting Ashot bot supervisor
+2025-06-04 09:54:10 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-06-04 09:54:10 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-06-04 09:54:10 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-04 09:54:15 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-04 09:54:15 - INFO - USPEH: Bot started with PID: 26912
+2025-06-04 10:06:06 - WARNING - ZAVERSHENIE: Process exited with code: 
+2025-06-04 10:06:06 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-04 10:06:11 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-04 10:06:13 - INFO - USPEH: Bot started with PID: 31676
+2025-06-04 10:07:47 - INFO - START: Starting Ashot bot supervisor
+2025-06-04 10:07:47 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-06-04 10:07:47 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-06-04 10:07:47 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-04 10:07:52 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-04 10:07:52 - INFO - USPEH: Bot started with PID: 31280
+2025-06-04 10:16:39 - INFO - START: Starting Ashot bot supervisor
+2025-06-04 10:16:39 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-06-04 10:16:39 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-06-04 10:16:39 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-04 10:16:44 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-04 10:16:44 - INFO - USPEH: Bot started with PID: 35536
+2025-06-04 12:11:12 - INFO - START: Starting Ashot bot supervisor
+2025-06-04 12:11:12 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-06-04 12:11:13 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-06-04 12:11:13 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-04 12:11:18 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-04 12:11:18 - INFO - USPEH: Bot started with PID: 70280
+2025-06-05 14:03:41 - INFO - START: Starting Ashot bot supervisor
+2025-06-05 14:03:41 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-06-05 14:03:41 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-06-05 14:03:41 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-05 14:03:46 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-05 14:03:46 - INFO - USPEH: Bot started with PID: 765796
+2025-06-06 13:34:38 - INFO - START: Starting Ashot bot supervisor
+2025-06-06 13:34:38 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-06-06 13:34:38 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-06-06 13:34:38 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-06 13:34:43 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-06 13:34:43 - INFO - USPEH: Bot started with PID: 1167216
+2025-06-09 21:46:18 - INFO - START: Starting Ashot bot supervisor
+2025-06-09 21:46:18 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-06-09 21:46:18 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-06-09 21:46:18 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-09 21:46:23 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-09 21:46:23 - INFO - USPEH: Bot started with PID: 1197828
+2025-06-09 22:59:58 - INFO - START: Starting Ashot bot supervisor
+2025-06-09 22:59:58 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-06-09 22:59:58 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-06-09 22:59:58 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-09 23:00:03 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-09 23:00:03 - INFO - USPEH: Bot started with PID: 5360
+2025-06-10 09:58:29 - INFO - START: Starting Ashot bot supervisor
+2025-06-10 09:58:29 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-06-10 09:58:29 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-06-10 09:58:29 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-10 09:58:34 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-10 09:58:34 - INFO - USPEH: Bot started with PID: 1868
+2025-06-14 17:55:47 - INFO - START: Starting Ashot bot supervisor
+2025-06-14 17:55:47 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-06-14 17:55:47 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-06-14 17:55:47 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-14 17:55:52 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-14 17:55:52 - INFO - USPEH: Bot started with PID: 30868
+2025-06-16 12:12:27 - INFO - START: Starting Ashot bot supervisor
+2025-06-16 12:12:27 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-06-16 12:12:27 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-06-16 12:12:27 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-16 12:12:32 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-16 12:12:32 - INFO - USPEH: Bot started with PID: 32064
+2025-06-19 13:55:07 - INFO - START: Starting Ashot bot supervisor
+2025-06-19 13:55:07 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-06-19 13:55:07 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-06-19 13:55:07 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-19 13:55:12 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-19 13:55:12 - INFO - USPEH: Bot started with PID: 1031688
+2025-06-23 11:45:08 - INFO - START: Starting Ashot bot supervisor
+2025-06-23 11:45:09 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-06-23 11:45:09 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-06-23 11:45:09 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-23 11:45:14 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-23 11:45:14 - INFO - USPEH: Bot started with PID: 18508
+2025-06-24 13:24:16 - WARNING - ZAVERSHENIE: Process exited with code: 
+2025-06-24 13:24:16 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-24 13:24:21 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-24 13:24:21 - INFO - USPEH: Bot started with PID: 181624
+2025-06-24 13:34:52 - WARNING - ZAVERSHENIE: Process exited with code: 
+2025-06-24 13:34:52 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-24 13:34:57 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-24 13:34:57 - INFO - USPEH: Bot started with PID: 150088
+2025-06-24 15:43:52 - WARNING - ZAVERSHENIE: Process exited with code: 
+2025-06-24 15:43:52 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-24 15:43:57 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-24 15:43:58 - INFO - USPEH: Bot started with PID: 233036
+2025-06-24 15:56:18 - WARNING - ZAVERSHENIE: Process exited with code: 
+2025-06-24 15:56:18 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-24 15:56:23 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-24 15:56:23 - INFO - USPEH: Bot started with PID: 234760
+2025-06-24 16:34:35 - WARNING - ZAVERSHENIE: Process exited with code: 
+2025-06-24 16:34:35 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-24 16:34:40 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-24 16:34:40 - INFO - USPEH: Bot started with PID: 242364
+2025-06-24 16:39:30 - WARNING - ZAVERSHENIE: Process exited with code: 
+2025-06-24 16:39:30 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-24 16:39:35 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-24 16:39:35 - INFO - USPEH: Bot started with PID: 245208
+2025-06-24 16:47:05 - WARNING - ZAVERSHENIE: Process exited with code: 
+2025-06-24 16:47:05 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-24 16:47:11 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-24 16:47:11 - INFO - USPEH: Bot started with PID: 250060
+2025-06-24 17:04:31 - WARNING - ZAVERSHENIE: Process exited with code: 
+2025-06-24 17:04:31 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-24 17:04:36 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-24 17:04:36 - INFO - USPEH: Bot started with PID: 255472
+2025-06-24 17:11:57 - WARNING - ZAVERSHENIE: Process exited with code: 
+2025-06-24 17:11:57 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-24 17:12:02 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-24 17:12:02 - INFO - USPEH: Bot started with PID: 255712
+2025-06-24 19:21:58 - WARNING - ZAVERSHENIE: Process exited with code: 
+2025-06-24 19:21:58 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-24 19:22:03 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-24 19:22:03 - INFO - USPEH: Bot started with PID: 235548
+2025-06-24 23:07:33 - WARNING - ZAVERSHENIE: Process exited with code: 
+2025-06-24 23:07:33 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-24 23:07:38 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-24 23:07:39 - INFO - USPEH: Bot started with PID: 345964
+2025-06-25 00:07:11 - WARNING - ZAVERSHENIE: Process exited with code: 
+2025-06-25 00:07:11 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-06-25 00:07:16 - INFO - ZAPUSK: Starting bot: rar.py
+2025-06-25 00:07:16 - INFO - USPEH: Bot started with PID: 359520
+2025-07-02 10:47:43 - INFO - START: Starting Ashot bot supervisor
+2025-07-02 10:47:43 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-07-02 10:47:43 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-07-02 10:47:43 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-07-02 10:47:48 - INFO - ZAPUSK: Starting bot: rar.py
+2025-07-02 10:47:48 - INFO - USPEH: Bot started with PID: 3888
+2025-07-02 12:01:42 - WARNING - ZAVERSHENIE: Process exited with code: 
+2025-07-02 12:01:42 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-07-02 12:01:47 - INFO - ZAPUSK: Starting bot: rar.py
+2025-07-02 12:01:47 - INFO - USPEH: Bot started with PID: 31488
+2025-07-02 12:08:17 - WARNING - ZAVERSHENIE: Process exited with code: 
+2025-07-02 12:08:17 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-07-02 12:08:22 - INFO - ZAPUSK: Starting bot: rar.py
+2025-07-02 12:08:22 - INFO - USPEH: Bot started with PID: 42836
+2025-07-02 12:27:13 - WARNING - ZAVERSHENIE: Process exited with code: 
+2025-07-02 12:27:13 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-07-02 12:27:18 - INFO - ZAPUSK: Starting bot: rar.py
+2025-07-02 12:27:18 - INFO - USPEH: Bot started with PID: 44944
+2025-07-02 17:37:14 - WARNING - ZAVERSHENIE: Process exited with code: 
+2025-07-02 17:37:14 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-07-02 17:37:19 - INFO - ZAPUSK: Starting bot: rar.py
+2025-07-02 17:37:19 - INFO - USPEH: Bot started with PID: 134204
+2025-07-03 12:59:02 - WARNING - ZAVERSHENIE: Process exited with code: 
+2025-07-03 12:59:02 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-07-03 12:59:07 - INFO - ZAPUSK: Starting bot: rar.py
+2025-07-03 12:59:07 - INFO - USPEH: Bot started with PID: 19632
+2025-07-03 13:21:48 - WARNING - ZAVERSHENIE: Process exited with code: 
+2025-07-03 13:21:48 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-07-03 13:21:53 - INFO - ZAPUSK: Starting bot: rar.py
+2025-07-03 13:21:53 - INFO - USPEH: Bot started with PID: 20372
+2025-07-03 16:27:56 - INFO - START: Starting Ashot bot supervisor
+2025-07-03 16:27:56 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-07-03 16:27:56 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-07-03 16:27:56 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-07-03 16:28:01 - INFO - ZAPUSK: Starting bot: rar.py
+2025-07-03 16:28:01 - INFO - USPEH: Bot started with PID: 20104
+2025-07-07 11:26:54 - INFO - START: Starting Ashot bot supervisor
+2025-07-07 11:26:54 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-07-07 11:26:54 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-07-07 11:26:54 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-07-07 11:26:59 - INFO - ZAPUSK: Starting bot: rar.py
+2025-07-07 11:26:59 - INFO - USPEH: Bot started with PID: 1193772
+2025-07-08 14:33:22 - INFO - START: Starting Ashot bot supervisor
+2025-07-08 14:33:22 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-07-08 14:33:22 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-07-08 14:33:22 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-07-08 14:33:27 - INFO - ZAPUSK: Starting bot: rar.py
+2025-07-08 14:33:27 - INFO - USPEH: Bot started with PID: 7872
+2025-07-10 11:20:03 - INFO - START: Starting Ashot bot supervisor
+2025-07-10 11:20:03 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-07-10 11:20:03 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-07-10 11:20:03 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-07-10 11:20:08 - INFO - ZAPUSK: Starting bot: rar.py
+2025-07-10 11:20:08 - INFO - USPEH: Bot started with PID: 38464
+2025-07-12 11:42:12 - INFO - START: Starting Ashot bot supervisor
+2025-07-12 11:42:12 - INFO - NASTROYKI: max 10 restarts/hour, delay 5 sec
+2025-07-12 11:42:12 - INFO - PYTHON: Using Python: Z:\BIG-DATASET\ASHOT_BOT\venv\Scripts\python.exe
+2025-07-12 11:42:12 - INFO - ZADERZHKA: Waiting 5 seconds...
+2025-07-12 11:42:17 - INFO - ZAPUSK: Starting bot: rar.py
+2025-07-12 11:42:17 - INFO - USPEH: Bot started with PID: 48160
